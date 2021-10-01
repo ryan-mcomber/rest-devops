@@ -12,5 +12,6 @@ public class UserApiApplication {
 	
 	/*
 	 * This is a test to check Sonar Cloud quality gate testing
+	 * test 2
 	 */
 }
